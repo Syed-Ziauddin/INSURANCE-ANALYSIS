@@ -313,3 +313,13 @@ Data Analyst | SQL | Excel | Power BI | Tableau
 * KPI and revenue analysis
 * Account Executive performance analysis
 * Data-driven business insights
+
+
+
+## 📊 Dashboard Preview
+
+![Stock Market Dashboard]()
+
+## 📈 Dashboard Details
+
+![Dashboard Details](images/dashboard-details.png)
