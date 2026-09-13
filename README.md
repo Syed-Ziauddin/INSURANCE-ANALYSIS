@@ -189,7 +189,7 @@ Benefits of Power BI
 
   ## 📊 Power BI Preview
 
-![Insurance Analysis Dashboard](https://github.com/Syed-Ziauddin/INSURANCE-ANALYSIS/blob/main/Excel%20Dashboard.png)
+![Insurance Analysis Dashboard](https://github.com/Syed-Ziauddin/INSURANCE-ANALYSIS/blob/main/Power%20BI%20Dashboard.png)
 
 8. Tableau Dashboard
 
