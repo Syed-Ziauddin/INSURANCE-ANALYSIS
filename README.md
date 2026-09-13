@@ -211,7 +211,7 @@ Tableau provides an intuitive way to explore data and communicate business insig
 
 ## 📊 Tableau Dashboard Preview
 
-![Insurance Analysis Dashboard](https://github.com/Syed-Ziauddin/INSURANCE-ANALYSIS/blob/main/Excel%20Dashboard.png)
+![Insurance Analysis Dashboard](https://github.com/Syed-Ziauddin/INSURANCE-ANALYSIS/blob/main/Tableau%20Dashboard.png)
 
 
 
