@@ -195,6 +195,12 @@ Tableau Visualizations
 
 Tableau provides an intuitive way to explore data and communicate business insights through visual storytelling.
 
+
+## 📊 Dashboard Preview
+
+![Stock Market Dashboard]()
+
+
 9. Business Insights
 
 The analysis provides several useful insights into insurance business performance.
@@ -315,11 +321,3 @@ Data Analyst | SQL | Excel | Power BI | Tableau
 * Data-driven business insights
 
 
-
-## 📊 Dashboard Preview
-
-![Stock Market Dashboard]()
-
-## 📈 Dashboard Details
-
-![Dashboard Details](images/dashboard-details.png)
