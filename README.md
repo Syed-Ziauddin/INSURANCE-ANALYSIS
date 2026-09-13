@@ -129,6 +129,12 @@ Highlights important open opportunities based on their business or revenue poten
 
 These KPIs provide a summarized view of business performance and make it easier to identify areas that require attention.
 
+## 📊 SQL Quiries Preview
+
+![Insurance Analysis SQL Quieries ](https://github.com/Syed-Ziauddin/INSURANCE-ANALYSIS/blob/main/Excel%20Dashboard.png)
+
+
+
 6. Microsoft Excel Dashboard
 
 Microsoft Excel was used to perform data analysis and create an interactive dashboard.
@@ -149,6 +155,10 @@ Excel Dashboard Components
 The Excel dashboard allows users to quickly understand business performance without manually analyzing large datasets.
 
 Users can apply filters and slicers to explore different categories and compare performance dynamically. 
+
+## 📊 Excel Dashboard Preview
+
+![Insurance Analysis Dashboard](https://github.com/Syed-Ziauddin/INSURANCE-ANALYSIS/blob/main/Excel%20Dashboard.png)
 
 7. Power BI Dashboard
 
@@ -177,6 +187,10 @@ Benefits of Power BI
 * Faster business analysis
 * Improved decision-making
 
+  ## 📊 Power BI Preview
+
+![Insurance Analysis Dashboard](https://github.com/Syed-Ziauddin/INSURANCE-ANALYSIS/blob/main/Excel%20Dashboard.png)
+
 8. Tableau Dashboard
 
 Tableau was used to create interactive visualizations and analyze insurance business performance.
@@ -195,10 +209,10 @@ Tableau Visualizations
 
 Tableau provides an intuitive way to explore data and communicate business insights through visual storytelling.
 
+## 📊 Tableau Dashboard Preview
 
-## 📊 Dashboard Preview
+![Insurance Analysis Dashboard](https://github.com/Syed-Ziauddin/INSURANCE-ANALYSIS/blob/main/Excel%20Dashboard.png)
 
-![Stock Market Dashboard]()
 
 
 9. Business Insights
