@@ -1,4 +1,4 @@
-1. Project Overview
+ ## 1.Project Overview
 
 Insurance Analysis is an end-to-end data analytics project designed to analyze insurance business data and generate meaningful insights for business decision-making.
 
@@ -12,7 +12,7 @@ Raw Data → Data Cleaning → Data Analysis → KPI Calculation → Visualizati
 
 The main objective is to transform raw insurance data into easy-to-understand information that can help organizations monitor performance, identify trends, and make better data-driven decisions.
 
-2. Project Objectives
+## 2. Project Objectives
 
 The major objectives of this project are:
 
@@ -27,7 +27,7 @@ The major objectives of this project are:
 9.  Use SQL queries to extract meaningful information from the database.
 10. Present complex data through simple and effective visualizations.
 
- 3. Dataset & Data Preparation
+ ## 3. Dataset & Data Preparation
 
 The project uses insurance business data containing information related to business transactions, invoices, meetings, opportunities, employees, branches, and performance metrics.
 
@@ -46,38 +46,40 @@ Before performing analysis, the data needs to be properly prepared. Data prepara
 
 Proper data preparation ensures that the KPIs and dashboard visualizations provide reliable results.
 
-4. SQL Analysis
+## 4. SQL Analysis
 
 MySQL was used to perform database-level analysis and calculate important business KPIs.
 
 SQL helped in filtering, grouping, aggregating, and extracting useful information from the insurance database.
 
 Major SQL Analysis Areas
-4.1 Invoice Analysis
+## 4.1 Invoice Analysis
 
 Invoice-related data was analyzed to understand the number of invoices and their distribution across Account Executives and other business categories.
 
-4.2 Meeting Analysis
+## 4.2 Meeting Analysis
 
 SQL queries were used to analyze meeting counts and understand meeting activity across Account Executives.
 
-4.3 Opportunity Analysis
+## 4.3 Opportunity Analysis
 
 Open opportunities were analyzed to understand potential business opportunities and revenue.
 
-4.4 Revenue Analysis
+## 4.4 Revenue Analysis
 
 Revenue-related calculations were performed to understand business performance and identify important trends.
 
-4.5 Cross-Sell Analysis
+## 4.5 Cross-Sell Analysis
 
 Cross-selling performance was analyzed by comparing available targets with achieved values.
 
-4.6 Account Executive Performance
+## 4.6 Account Executive Performance
 
 Account Executives were compared based on invoices, meetings, opportunities, and other available performance indicators.
 
-SQL Concepts Used
+## SQL 
+## Concepts Used
+
 * SELECT
 * WHERE
 * GROUP BY
@@ -93,37 +95,37 @@ SQL Concepts Used
 
 SQL analysis forms the foundation of the project and provides the data required for dashboard development.
 
-5. Key Performance Indicators (KPIs)
+## 5. Key Performance Indicators (KPIs)
 
 KPIs are used to measure important aspects of insurance business performance.
 
 The major KPIs analyzed in this project include:
 
-1. No. of Invoices by Account Executive
+## 1. No. of Invoices by Account Executive
 
 Measures the number of invoices handled by each Account Executive and helps compare individual performance.
 
-2. Yearly Meeting Count
+## 2. Yearly Meeting Count
 
 Shows the number of meetings conducted during different periods and helps understand business engagement.
 
-3. Cross-Sell Target
+## 3. Cross-Sell Target
 
 Represents the target assigned for cross-selling activities.
 
-4. Cross-Sell Achieved
+## 4. Cross-Sell Achieved
 
 Shows the actual cross-selling performance achieved against the target.
 
-5. Stage Funnel by Revenue
+## 5. Stage Funnel by Revenue
 
 Shows opportunities at different stages and their associated revenue potential.
 
-6. Number of Meetings by Account Executive
+## 6. Number of Meetings by Account Executive
 
 Helps identify Account Executives with higher or lower meeting activity.
 
-7. Top Open Opportunity
+## 7. Top Open Opportunity
 
 Highlights important open opportunities based on their business or revenue potential.
 
@@ -135,7 +137,7 @@ These KPIs provide a summarized view of business performance and make it easier 
 
 
 
-6. Microsoft Excel Dashboard
+## 6. Microsoft Excel Dashboard
 
 Microsoft Excel was used to perform data analysis and create an interactive dashboard.
 
@@ -160,7 +162,7 @@ Users can apply filters and slicers to explore different categories and compare 
 
 ![Insurance Analysis Dashboard](https://github.com/Syed-Ziauddin/INSURANCE-ANALYSIS/blob/main/Excel%20Dashboard.png)
 
-7. Power BI Dashboard
+## 7. Power BI Dashboard
 
 Power BI was used to develop an interactive business intelligence dashboard.
 
@@ -191,7 +193,7 @@ Benefits of Power BI
 
 ![Insurance Analysis Dashboard](https://github.com/Syed-Ziauddin/INSURANCE-ANALYSIS/blob/main/Power%20BI%20Dashboard.png)
 
-8. Tableau Dashboard
+## 8. Tableau Dashboard
 
 Tableau was used to create interactive visualizations and analyze insurance business performance.
 
@@ -215,7 +217,7 @@ Tableau provides an intuitive way to explore data and communicate business insig
 
 
 
-9. Business Insights
+## 9. Business Insights
 
 The analysis provides several useful insights into insurance business performance.
 
@@ -243,7 +245,7 @@ KPI Monitoring
 
 The dashboards provide a centralized view of important KPIs, allowing users to monitor performance more efficiently.
 
-10. Challenges Faced
+## 10. Challenges Faced
 
 During the development of the project, several challenges can occur while working with real-world business data.
 
@@ -273,7 +275,7 @@ Results obtained from SQL queries and dashboards need to be checked to ensure ac
 
 These challenges helped improve practical data analytics and problem-solving skills.
 
-11. Skills Learned
+## 11. Skills Learned
 
 This project helped develop both technical and analytical skills.
 
@@ -288,7 +290,7 @@ Technical Skills
 * Dashboard Development
 * KPI Development
 * Business Intelligence
-Analytical Skills
+* Analytical Skills
 * Problem solving
 * Business analysis
 * Trend identification
@@ -299,7 +301,7 @@ Analytical Skills
 
 The project also provided practical experience in converting raw data into meaningful business information.
 
-12. Project Outcome
+## 12. Project Outcome
 
 The Insurance Analysis project successfully demonstrates the complete process of data analytics, from raw data preparation to business intelligence reporting.
 
@@ -309,7 +311,7 @@ The final dashboards provide a clear overview of insurance business performance 
 
 The project demonstrates how data analytics can support organizations in making faster, clearer, and data-driven business decisions.
 
-15. Conclusion
+## 15. Conclusion
 
 Insurance Analysis is a practical data analytics project that demonstrates the ability to work with business data and generate actionable insights.
 
@@ -317,13 +319,14 @@ The combination of MySQL, Excel, Power BI, and Tableau provides a complete analy
 
 This project strengthened practical skills in Data Analysis, SQL, Excel, Power BI, Tableau, Data Visualization, KPI Analysis, and Business Intelligence, while also providing experience in presenting analytical findings in a professional manner.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Syed Zia Uddin
+## Syed Zia Uddin
 
 Data Analyst | SQL | Excel | Power BI | Tableau
 
-⭐ Project Highlights
+## ⭐ Project Highlights
+
 * End-to-end insurance data analysis
 * SQL-based KPI analysis
 * Excel interactive dashboard
