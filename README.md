@@ -131,7 +131,7 @@ These KPIs provide a summarized view of business performance and make it easier 
 
 ## 📊 SQL Quiries Preview
 
-![Insurance Analysis SQL Quieries ](https://github.com/Syed-Ziauddin/INSURANCE-ANALYSIS/blob/main/Excel%20Dashboard.png)
+![Insurance Analysis SQL Quieries ](https://github.com/Syed-Ziauddin/INSURANCE-ANALYSIS/blob/main/SQL_Queries_Combined.png)
 
 
 
